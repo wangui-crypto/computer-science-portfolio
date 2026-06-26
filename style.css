@@ -9,13 +9,14 @@ Pic.jpeg {
 }
 body {
     font-family: Arial, sans-serif;
-    background color: black;
+    background-color: black;
     margin: 40px;
     line-height: 1.6;
 }
 
 h1 {
-    color: light blue;
+    color: light-blue;
+    text-align: center;
 }
 
 h2 {
